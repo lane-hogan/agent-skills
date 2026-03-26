@@ -2,8 +2,20 @@
 
 A collection of agentic skills that I have found or created to aid in my agentic workflow.
 
-### Skills
+## Skills
+
+### Planning & Design
+
+These skills help you think through problems before writing code.
 
 | Skill Name | Description | Author |
 | ---------- | ----------- | ------ |
-| grill-me   | Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved. | [Matt Pocock](https://github.com/mattpocock/skills/tree/main/grill-me) |
+| grill-me | Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved. | [Matt Pocock](https://github.com/mattpocock/skills/tree/main/grill-me) |
+
+### Writing & Knowledge
+
+| Skill Name | Description | Author |
+| ---------- | ----------- | ------ |
+| write-a-skill | Create new skills with proper structure, progressive disclosure, and bundled resources. | [Matt Pocock](https://github.com/mattpocock/skills/tree/main/write-a-skill) |
+
+
