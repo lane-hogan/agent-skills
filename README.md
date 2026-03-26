@@ -11,6 +11,7 @@ These skills help you think through problems before writing code.
 | Skill Name | Description | Author |
 | ---------- | ----------- | ------ |
 | grill-me | Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved. | [Matt Pocock](https://github.com/mattpocock/skills/tree/main/grill-me) |
+| write-a-prd | Create a PRD through an interactive interview, codebase exploration, and module design. Filed as a GitHub issue. | [Matt Pocock](https://github.com/mattpocock/skills/tree/main/write-a-prd) |
 
 ### Writing & Knowledge
 
